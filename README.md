@@ -1,2 +1,5 @@
 # ILB-Media-website
 Website ILB Media
+
+PENTING :
+Karena bersifat private milik perusahaan maka saya sebagai developer tidak bisa menampilkan source code yang sudah dibuat, tapi anda bisa akses hasil pembuatan website di ilb.mediaprestasi.com
